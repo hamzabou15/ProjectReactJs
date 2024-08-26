@@ -1,0 +1,25 @@
+/* NameList.css */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.name-list {
+    list-style-type: none; 
+    padding: 0; 
+    max-width: 700px;
+  }
+  
+  .name-list li {
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd; 
+    background-color: #f9f9f9; 
+    transition: background-color 0.3s; 
+    min-width: 300px;
+    cursor: pointer;
+  }
+  
+  .name-list li:hover {
+    background-color: #e0e0e0;
+  }
+  

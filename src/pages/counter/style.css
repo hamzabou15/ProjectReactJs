@@ -1,0 +1,22 @@
+/* Counter.css */
+.counter-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.counter-button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.increment-button {
+    background-color: lightgreen;
+}
+
+.decrement-button {
+    background-color: lightcoral;
+}
